@@ -10,6 +10,10 @@
 - VBNotepad （好似）
 - NULL
 
+# 目前状态
+[![个人状态](https://github-readme-stats.vercel.app/api?username=LKBaka)](https://github.com/anuraghazra/github-readme-stats)  
+![个人最常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=LKBaka&layout=compact)  
+
 # 一些想说的话
 纳努克，我为你带来烩面啦  
 纳努克，我为你带来烩面啦  
