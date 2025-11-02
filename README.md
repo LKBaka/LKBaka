@@ -13,3 +13,5 @@
 # 目前状态
 [![个人状态](https://github-readme-stats.vercel.app/api?username=LKBaka&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
 ![个人最常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=LKBaka&layout=compact&theme=dark)  
+
+<img src="https://komarev.com/ghpvc/?username=lkbaka" alt="icon" width="91px">
