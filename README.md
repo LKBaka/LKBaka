@@ -6,7 +6,8 @@
 # 写过的项目
 - FoxScript （已死，勿念）
 - KotlinFoxScript （已死，勿念）
-- RustAnt （在役人员）
+- RustAnt （已死）
+- TypedAnt （在役）
 - VBNotepad （好似）
 - NULL
 
